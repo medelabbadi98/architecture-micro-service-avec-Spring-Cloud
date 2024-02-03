@@ -1,5 +1,3 @@
-
-<img src="screens/2.png">
 <img src="screens/3.png">
 <img src="screens/7.png">
 <img src="screens/9.png">
